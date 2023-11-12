@@ -26,7 +26,7 @@
                     <div class="col-12 mb-4">
                         <div class="hero bg-primary text-white">
                             <div class="hero-inner">
-                                <h2>Welcome Back, Ujang!</h2>
+                                <h2>Welcome Back, Ridwan!</h2>
                                 <p class="lead">This page is a place to manage posts, categories and more.</p>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                     <div class="col-12 mb-4">
                         <div class="hero bg-primary text-white">
                             <div class="hero-inner">
-                                <h2>Welcome, Ujang!</h2>
+                                <h2>Welcome, Ridwan!</h2>
                                 <p class="lead">You almost arrived, complete the information about your account to
                                     complete registration.</p>
                                 <div class="mt-4">
@@ -63,7 +63,7 @@
                         <div class="hero hero-bg-image hero-bg-parallax text-white"
                             style="background-image: url('{{ asset('img/unsplash/andre-benz-1214056-unsplash.jpg') }}');">
                             <div class="hero-inner">
-                                <h2>Welcome, Ujang!</h2>
+                                <h2>Welcome, Ridwan!</h2>
                                 <p class="lead">You almost arrived, complete the information about your account to
                                     complete registration.</p>
                                 <div class="mt-4">
@@ -78,7 +78,7 @@
                         <div class="hero hero-bg-image text-white"
                             style="background-image: url('{{ asset('img/unsplash/eberhard-grossgasteiger-1207565-unsplash.jpg') }}');">
                             <div class="hero-inner">
-                                <h2>Welcome, Ujang!</h2>
+                                <h2>Welcome, Ridwan!</h2>
                                 <p class="lead">You almost arrived, complete the information about your account to
                                     complete registration.</p>
                                 <div class="mt-4">

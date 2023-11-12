@@ -21,7 +21,7 @@
                 </div>
             </div>
             <div class="section-body">
-                <h2 class="section-title">Hi, Ujang!</h2>
+                <h2 class="section-title">Hi, Ridwan!</h2>
                 <p class="section-lead">
                     Change information about yourself on this page.
                 </p>
@@ -49,18 +49,18 @@
                                 </div>
                             </div>
                             <div class="profile-widget-description">
-                                <div class="profile-widget-name">Ujang Maman <div
+                                <div class="profile-widget-name">Muhammad Ridwan Hakim, S.T. <div
                                         class="text-muted d-inline font-weight-normal">
                                         <div class="slash"></div> Web Developer
                                     </div>
                                 </div>
-                                Ujang maman is a superhero name in <b>Indonesia</b>, especially in my family. He is not a
+                                Ridwan maman is a superhero name in <b>Indonesia</b>, especially in my family. He is not a
                                 fictional character but an original hero in my family, a hero for his children and for his
                                 wife. So, I use the name as a user in this template. Not a tribute, I'm just bored with
                                 <b>'John Doe'</b>.
                             </div>
                             <div class="card-footer text-center">
-                                <div class="font-weight-bold mb-2">Follow Ujang On</div>
+                                <div class="font-weight-bold mb-2">Follow Ridwan On</div>
                                 <a href="#"
                                     class="btn btn-social-icon btn-facebook mr-1">
                                     <i class="fab fa-facebook-f"></i>
@@ -94,7 +94,7 @@
                                             <label>First Name</label>
                                             <input type="text"
                                                 class="form-control"
-                                                value="Ujang"
+                                                value="Ridwan"
                                                 required="">
                                             <div class="invalid-feedback">
                                                 Please fill in the first name
@@ -132,7 +132,7 @@
                                     <div class="row">
                                         <div class="form-group col-12">
                                             <label>Bio</label>
-                                            <textarea class="form-control summernote-simple">Ujang maman is a superhero name in <b>Indonesia</b>, especially in my family. He is not a fictional character but an original hero in my family, a hero for his children and for his wife. So, I use the name as a user in this template. Not a tribute, I'm just bored with <b>'John Doe'</b>.</textarea>
+                                            <textarea class="form-control summernote-simple">Ridwan maman is a superhero name in <b>Indonesia</b>, especially in my family. He is not a fictional character but an original hero in my family, a hero for his children and for his wife. So, I use the name as a user in this template. Not a tribute, I'm just bored with <b>'John Doe'</b>.</textarea>
                                         </div>
                                     </div>
                                     <div class="row">

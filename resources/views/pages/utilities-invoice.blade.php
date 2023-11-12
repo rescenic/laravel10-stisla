@@ -31,7 +31,7 @@
                                     <div class="col-md-6">
                                         <address>
                                             <strong>Billed To:</strong><br>
-                                            Ujang Maman<br>
+                                            Muhammad Ridwan Hakim, S.T.<br>
                                             1234 Main<br>
                                             Apt. 4B<br>
                                             Bogor Barat, Indonesia

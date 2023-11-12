@@ -408,7 +408,7 @@
                                             <div class="media-right">
                                                 <div class="text-primary">Approved</div>
                                             </div>
-                                            <div class="media-title mb-1">Ujang Maman</div>
+                                            <div class="media-title mb-1">Muhammad Ridwan Hakim, S.T.</div>
                                             <div class="text-time">Yesterday</div>
                                             <div class="media-description text-muted">Duis aute irure dolor in
                                                 reprehenderit in voluptate velit esse

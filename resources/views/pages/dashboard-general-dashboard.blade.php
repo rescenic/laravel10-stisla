@@ -150,7 +150,7 @@
                                         alt="avatar">
                                     <div class="media-body">
                                         <div class="float-right">12m</div>
-                                        <div class="media-title">Ujang Maman</div>
+                                        <div class="media-title">Muhammad Ridwan Hakim, S.T.</div>
                                         <span class="text-small text-muted">Cras sit amet nibh libero, in gravida nulla.
                                             Nulla vel metus scelerisque ante sollicitudin.</span>
                                     </div>
@@ -547,7 +547,7 @@
                                     <div class="media-body">
                                         <div class="badge badge-pill badge-warning float-right mb-1">Progress</div>
                                         <h6 class="media-title"><a href="#">Fix modal window</a></h6>
-                                        <div class="text-small text-muted">Ujang Maman <div class="bullet"></div> 8 Min
+                                        <div class="text-small text-muted">Muhammad Ridwan Hakim, S.T. <div class="bullet"></div> 8 Min
                                         </div>
                                     </div>
                                 </li>
